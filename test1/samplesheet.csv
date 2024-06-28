@@ -1,4 +1,4 @@
-sample,fastq_1,fastq_2
-X,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixX_001_R1.fq.gz,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixX_001_R2.fq.gz
-X,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixX_002_R1.fq.gz,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixX_002_R2.fq.gz
-Y,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixY_001_R1.fq.gz,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixY_001_R2.fq.gz
+sample,fastq_1,fastq_2,strandedness
+X,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixX_001_R1.fq.gz,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixX_001_R2.fq.gz,auto
+X,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixX_002_R1.fq.gz,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixX_002_R2.fq.gz,auto
+Y,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixY_001_R1.fq.gz,https://github.com/singleron-RD/rnaseq_test_data/raw/master/test1/prefixY_001_R2.fq.gz,auto
